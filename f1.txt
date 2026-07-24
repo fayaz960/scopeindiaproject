@@ -1,6 +1,3 @@
 This is the first line added in f1 txt
-
-
-
-
 Third line completed in f1 txt
+second line added  in f1
